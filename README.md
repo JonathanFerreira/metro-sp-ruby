@@ -1,5 +1,7 @@
 # SubwaySpStatus
 
+[![Build Status](https://api.travis-ci.org/JonathanFerreira/metro-sp-ruby.svg?branch=master)](https://travis-ci.org/JonathanFerreira/metro-sp-ruby/builds/512328109#)
+
 Ruby crawler for searching informations about São Paulo subway status
 
 ## Installation
